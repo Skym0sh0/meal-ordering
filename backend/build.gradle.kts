@@ -18,7 +18,7 @@ buildscript {
         classpath("org.testcontainers:postgresql:1.21.3")
         classpath("org.jooq:jooq-codegen:3.19.26")
         classpath("org.flywaydb:flyway-core:11.14.0")
-        classpath("org.flywaydb:flyway-database-postgresql:11.11.2")
+        classpath("org.flywaydb:flyway-database-postgresql:11.15.0")
     }
 }
 
